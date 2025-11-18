@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel v2 Dashboard",
+  "description": "Tactical command & control interface for the Sentinel v2 Arctic surveillance system, featuring edge node management, blackout protocol controls, and real-time detection mapping.",
+  "requestFramePermissions": []
+}
